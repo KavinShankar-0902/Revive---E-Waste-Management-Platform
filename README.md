@@ -1,0 +1,1 @@
+# Revive---E-Waste-Management-Platform
