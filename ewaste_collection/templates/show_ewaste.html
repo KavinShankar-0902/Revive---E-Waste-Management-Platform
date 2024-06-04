@@ -1,0 +1,8 @@
+{% for ewaste in ewastes %}
+    <div>
+        <p>Waste Type: {{ ewaste.waste_type }}</p>
+        <p>Quantity: {{ ewaste.quantity }}</p>
+        <p>Location: {{ ewaste.location }}</p>
+        <button>Show</button>
+    </div>
+{% endfor %}
